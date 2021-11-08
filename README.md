@@ -19,3 +19,5 @@ Plan:
 - praca z szeregami czasowi
 - testy statystyczne 
 
+dane do uzycia dla joina
+https://github.com/realpython/materials/tree/master/introduction-combining-data-pandas-merge-join-and-concat
