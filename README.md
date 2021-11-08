@@ -9,5 +9,13 @@ Na podstawie kodu zawartego tutaj: https://colab.research.google.com/drive/1PIKg
 
 Kolejne zadania dołoże na bieżąco na podstawie tempa pracy.
 
-C.D.N
+Turorial pandas https://pandas.pydata.org/docs/user_guide/merging.html
+Plan:
+- czytanie różnych formatów danych(csv, excel, json).
+- operacje arytmetyczne na kolumnach, statystyki opisowe kolumns.
+- filtrowanie danych.
+- merge, join itd
+- wykresy i wizualizacje.
+- praca z szeregami czasowi
+- testy statystyczne 
 
