@@ -26,3 +26,6 @@ https://github.com/realpython/materials/tree/master/introduction-combining-data-
 #zadanie 1 dzien, klasyfikacja
 
 https://colab.research.google.com/drive/1Hft8V1vN3QtSg4oSKG7iYkgRxVVA1MKq?usp=sharing
+
+LINK z komentarzem:
+https://colab.research.google.com/drive/1Hft8V1vN3QtSg4oSKG7iYkgRxVVA1MKq#scrollTo=1Y1TxclQC1m-
