@@ -34,7 +34,14 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 - dopasowanie obiektow wg indeksow.
 - rzuca wyjątkiem, jeśli w łączonych obiektach mamy tą samą wartośc indeksu.
 - domyślne używa outer join
- 
+
+
+**join**
+- Metoda DataFrame
+- Łączy horyzontalnie dwa lub więcej obiektów pandas
+- Wyrównuje kolumnę(y) lub indeks wywołującej DataFrame z indeksem innych obiektów (a nie kolumn)
+- Obsługuje zduplikowane wartości na łączonych kolumnach/indeksach poprzez wykonanie iloczynu kartezjańskiego
+- Domyślnie left join z opcjami dla inner, outer i right
 
 
 
