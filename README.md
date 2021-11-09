@@ -1,5 +1,10 @@
 # jsystem_my_repo
 
+
+url = "https://raw.githubusercontent.com/fuwiak/jsystem_my_repo/main/Dane/Summary%20of%20Weather.csv"
+
+
+
 LINKI:
 https://colab.research.google.com/drive/1Hft8V1vN3QtSg4oSKG7iYkgRxVVA1MKq#scrollTo=1Y1TxclQC1m-
 
