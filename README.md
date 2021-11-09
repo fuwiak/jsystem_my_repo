@@ -1,13 +1,8 @@
 # jsystem_my_repo
 
+#praca domowa link
 
-url = "https://raw.githubusercontent.com/fuwiak/jsystem_my_repo/main/Dane/Summary%20of%20Weather.csv"
-
-url2 = "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data"
-
-summary of weather
-url3 = "https://raw.githubusercontent.com/fuwiak/jsystem_my_repo/main/Dane/Summary%20of%20Weather.csv"
-
+https://paper.dropbox.com/doc/praca-domowa--BV3PdApRQ9~KjooclOBVK_8PAg-NCrQbXBZwxsS2qcFGY2jX
 
 LINKI:
 https://colab.research.google.com/drive/1Hft8V1vN3QtSg4oSKG7iYkgRxVVA1MKq#scrollTo=1Y1TxclQC1m-
