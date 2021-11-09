@@ -52,4 +52,7 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 
 # zadane pytania
 - Kazdy przypadek braku danych w kolumnach i dataframe https://datatofish.com/check-nan-pandas-dataframe/
-
+- kilka separatow podczas wczytywnia pliku
+```{python}
+pd.read_csv(filename,sep="\s+|;|:")
+```
