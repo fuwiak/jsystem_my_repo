@@ -43,5 +43,11 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 - Obsługuje zduplikowane wartości na łączonych kolumnach/indeksach poprzez wykonanie iloczynu kartezjańskiego
 - Domyślnie left join z opcjami dla inner, outer i right
 
+**merge**
+- Metoda DataFrame
+- Łączy dokładnie dwie DataFrame w poziomie
+- Wyrównuje kolumnę(y)/indeks wywołującej DataFrame z kolumną(ami)/indeksem drugiej DataFrame
+- Obsługuje zduplikowane wartości na łączących się kolumnach/indeksach poprzez wykonanie iloczynu kartezjańskiego
+- Domyślnie inner join, z opcją na left, outer i right
 
 
