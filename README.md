@@ -30,6 +30,11 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 
 **concat**
 - funkcja bezposrednio z pandass(nie DataFrame)
-- Łączy dwa lub więcej obiektów typu pandas w pionie lub poziomie
+- Łączy dwa lub więcej obiektów typu pandas w pionie lub poziomie.
+- dopasowanie obiektow wg indeksow.
+- rzuca wyjątkiem, jeśli w łączonych obiektach mamy tą samą wartośc indeksu.
+- domyślne używa outer join
+ 
+
 
 
