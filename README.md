@@ -56,3 +56,4 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 ```{python}
 pd.read_csv(filename,sep="\s+|;|:")
 ```
+- formatowanie warunkowe w pandas(funkcja style) https://www.datasciencelearner.com/styling-pandas-dataframe-like-a-master/
