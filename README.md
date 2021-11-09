@@ -50,4 +50,6 @@ Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bar
 - Obsługuje zduplikowane wartości na łączących się kolumnach/indeksach poprzez wykonanie iloczynu kartezjańskiego
 - Domyślnie inner join, z opcją na left, outer i right
 
+# zadane pytania
+- Kazdy przypadek braku danych w kolumnach i dataframe https://datatofish.com/check-nan-pandas-dataframe/
 
