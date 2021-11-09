@@ -23,9 +23,13 @@ Ujęte tematy:
 ## Pandas
 - Turorial pandas https://pandas.pydata.org/docs/user_guide/merging.html
 
-dane do uzycia dla joina
-https://github.com/realpython/materials/tree/master/introduction-combining-data-pandas-merge-join-and-concat
+- dane do uzycia dla joina https://github.com/realpython/materials/tree/master/introduction-combining-data-pandas-merge-join-and-concat
 
+Krótkie porównanie merge, join i concat.
+Metody merge i join DataFrame (a nie Series) oraz funkcja concat zapewniają bardzo podobną funkcjonalność do łączenia wielu obiektów pandas razem. Ponieważ są one tak podobne i mogą się powielać w pewnych sytuacjach, może to być bardzo mylące, kiedy i jak używać ich poprawnie. Aby pomóc wyjaśnić różnice, spójrz na porównanie:
 
+**concat**
+- funkcja bezposrednio z pandass(nie DataFrame)
+- Łączy dwa lub więcej obiektów typu pandas w pionie lub poziomie
 
 
