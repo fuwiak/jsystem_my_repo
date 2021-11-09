@@ -1,0 +1,5 @@
+Witaj świecie!
+Pracujemy zdalnie.
+Każdy z nas przy swoim komputerze, z kubkiem ciepłej kawy lub herbaty.
+A tutaj dodatkowa linia dodana z pythona 
+A tutaj dodatkowa linia dodana z pythona 
