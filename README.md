@@ -2,7 +2,7 @@
 
 Zrodlo danych 
 
-
+https://www.kaggle.com/fuwiak/polish-literature-by-author
 
 
 ## Plan na piatek
