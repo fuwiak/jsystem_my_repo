@@ -1,5 +1,10 @@
 # jsystem_my_repo
 
+Zrodlo danych 
+
+
+
+
 ## Plan na piatek
 
 https://paper.dropbox.com/doc/Plan-na-piatek--BV6GT1EMaCMKZ6pU9abH229ZAg-BqbYnti3BhVeoajTa2BGI
