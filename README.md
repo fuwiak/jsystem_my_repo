@@ -1,5 +1,12 @@
 # jsystem_my_repo
 
+mail: poczta130@gmail.com
+
+https://paper.dropbox.com/doc/Wymagania-odnosnie-projektow--BV5RQuJcFLHRSsObGRBGos02Ag-CE04FUFaWiH3lzKtjiX3b
+
+
+
+
 Ankiety
 
 http://www.jsystems.pl/ankiety/start.do
