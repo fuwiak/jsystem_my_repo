@@ -1,5 +1,14 @@
 # jsystem_my_repo
 
+## Plan na piatek
+
+https://paper.dropbox.com/doc/Plan-na-piatek--BV6GT1EMaCMKZ6pU9abH229ZAg-BqbYnti3BhVeoajTa2BGI
+
+
+
+
+
+
 #praca domowa link
 
 https://paper.dropbox.com/doc/praca-domowa--BV3PdApRQ9~KjooclOBVK_8PAg-NCrQbXBZwxsS2qcFGY2jX
